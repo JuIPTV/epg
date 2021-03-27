@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="AMC | TechRuthes.org">
+    <display-name lang="pt">AMC | TechRuthes.org</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Band Sports | TechRuthes.org">
+    <display-name lang="pt">Band Sports | TechRuthes.org</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Cartoon Network | TechRuthes.org">
+    <display-name lang="en">Cartoon Network | TechRuthes.org</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="CNN Brasil | TechRuthes.org">
+    <display-name lang="pt">CNN Brasil | TechRuthes.org</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Cultura | TechRuthes.org">
+    <display-name lang="pt">Cultura | TechRuthes.org</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Discovery Channel | TechRuthes.org">
+    <display-name lang="pt">Discovery Channel | TechRuthes.org</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Disney Junior | TechRuthes.org">
+    <display-name lang="en">Disney Junior | TechRuthes.org</display-name>
+    <url>http://www.oi.com.br</url>
+  </channel>
+  <channel id="ESPN Brasil | TechRuthes.org">
+    <display-name lang="pt">ESPN Brasil | TechRuthes.org</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="SporTV | TechRuthes.org">
+    <display-name lang="pt">,SporTV | TechRuthes.org</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="FX | TechRuthes.org">
+    <display-name lang="pt">FX | TechRuthes.org</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Globo SP | TechRuthes.org">
+    <display-name lang="pt">Globo SP | TechRuthes.org</display-name>
+    <url>http://www.redeglobo.globo.com</url>
+  </channel>
+</tv>
